@@ -1,12 +1,6 @@
 # frontend-react-harness
 
-<br />
-
-<br />
-
-![项目首页预览](https://github.com/xiangxiong/frontend-react-harness/blob/main/public/img/home.png)
-
-[!\[CI 状态\](https://github.com/xiangxiong/AIBlog/actions/workflows/frontend-react-harness-ci.yml/badge.svg null)](https://github.com/xiangxiong/AIBlog/actions/workflows/frontend-react-harness-ci.yml)
+!\[项目首页预览]\(https\://github.com/xiangxiong/frontend-react-harness/blob/main/public/img/home.png null)
 
 这是一个独立的 React + TypeScript + Vite 前端项目模板。它的目标不只是把页面跑起来，而是把 harness engineering 的工作方式一起沉淀进仓库。
 
