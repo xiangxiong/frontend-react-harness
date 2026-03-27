@@ -1,9 +1,6 @@
 # frontend-react-harness
 
-```
-<img src="https://github.com/xiangxiong/frontend-react-harness/blob/main/public/img/home.png">
-
-```
+![main](https://github.com/xiangxiong/frontend-react-harness/blob/main/public/img/home.png)
 
 这是一个独立的 React + TypeScript + Vite 前端项目模板。它的目标不只是把页面跑起来，而是把 harness engineering 的工作方式一起沉淀进仓库。
 
